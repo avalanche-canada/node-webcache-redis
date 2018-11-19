@@ -1,0 +1,52 @@
+{
+  "_from": "git://github.com/tesera/node-webcache-redis.git",
+  "_id": "webcache-redis@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-kU1kzheToZ9X+4rNKdoEN2kXXW8=",
+  "_location": "/webcache-redis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/tesera/node-webcache-redis.git",
+    "rawSpec": "git://github.com/tesera/node-webcache-redis.git",
+    "saveSpec": "git://github.com/tesera/node-webcache-redis.git",
+    "fetchSpec": "git://github.com/tesera/node-webcache-redis.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/tesera/node-webcache-redis.git#008edcac9520af085e67e2659306f51d1ecd43b4",
+  "_spec": "git://github.com/tesera/node-webcache-redis.git",
+  "_where": "/Users/wharding/work/ac-web",
+  "author": {
+    "name": "Yves Richard"
+  },
+  "bugs": {
+    "url": "https://github.com/tesera/node-webcache-redis/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "q": "~1.1.1",
+    "redis": "~0.12.1"
+  },
+  "deprecated": false,
+  "description": "Redis adapter for webcache.",
+  "homepage": "https://github.com/tesera/node-webcache-redis#readme",
+  "keywords": [
+    "cache",
+    "cache",
+    "webcache"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "webcache-redis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesera/node-webcache-redis.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
